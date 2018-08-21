@@ -258,7 +258,6 @@ Include = /etc/pacman.d/mirrorlist
 # Install some more stuffs
 
 - $ sudo pacman -S firefox unzip unrar p7zip mlocate sshfs chromium vlc pidgin deluge smplayer audacious qmmp gimp xfburn thunderbird ttf-dejavu gedit gnome-system-monitor gnome-terminal libreoffice
-- $ yaourt -S pacaur --noconfirm
 - $ yaourt -S sublime-text-dev --noconfirm
 - $ yaourt -S skypeforlinux-stable-bin --noconfirm
 - $ yaourt -S spotify ----noconfirm
