@@ -1,0 +1,1 @@
+# Dell-Inspiron-7567-Arch-Install---UEFI
